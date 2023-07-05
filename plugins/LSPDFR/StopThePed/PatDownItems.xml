@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Each "Item" tag may have "chance" attribute
+    # Possible "chance" values are: "rare", "normal", "often"
+    # If "chance" attribute is not set, then the plugin will set it as "normal" by default
+-->
+<PatDownItems>
+    <RedItems>
+      <Item chance="normal">un pistolet</Item>
+      <Item>un petit revolver</Item>
+      <Item chance="rare">une grenade</Item>
+      <Item>un sachet de marijuana</Item>
+      <Item>un petit sachet de cocaïne</Item>
+      <Item>un sachet de méthamphétamine</Item>
+      <Item>un sachet d'héroïne</Item>
+      <Item>fentanyl</Item>
+      <Item>pilules d'ordonnance illégales</Item>
+      <Item>Phencyclidine</Item>
+    </RedItems>
+    <YellowItems>
+      <Item>une seringue usagée</Item>
+      <Item chance="often">un couteau de poche</Item>
+      <Item>une pince coupante</Item>
+      <Item>un tube brûlé pour la méthamphétamine</Item>
+      <Item>des poings américains</Item>
+      <Item>du spray au poivre</Item>
+      <Item>une cuillère rouillée</Item>
+      <Item>un crochet de serrurier</Item>
+      <Item>un masque de clown</Item>
+      <Item>un masque de terroriste</Item>
+      <Item>une matraque de police</Item>
+      <Item>un tournevis</Item>
+      <Item>une petite bouteille contenant un liquide transparent</Item>
+      <Item>une cuillère en métal avec des résidus de poudre noire</Item>
+      <Item>une pipe avec des résidus de poudre brune</Item>
+      <Item>une pipe avec des résidus de poudre brune</Item>
+      <Item>un bang avec des résidus de poudre blanche</Item>
+      <Item>des pilules non marquées</Item>
+      <Item>trois pilules non marquées</Item>
+      <Item>quelques comprimés dans un récipient en plastique</Item>
+      <Item>quelques capsules dans un récipient en plastique</Item>
+      <Item>un billet d'un dollar couvert de poudre blanche</Item>
+      <Item>un sachet de cristaux transparents</Item>
+      <Item>un sachet de poudre brune</Item>
+      <Item>un sachet de pilules non marquées</Item>
+      <Item>un sachet de poudre blanche</Item>
+      <Item>un sachet de cristaux bleus</Item>
+      <Item>un sachet de poudre brune</Item>
+      <Item>un petit pot de liquide suspect</Item>
+      <Item>quelques papiers buvards</Item>
+    </YellowItems>
+    <GreenItems>
+      <Item chance="normal">un portefeuille</Item>
+      <Item>des clés</Item>
+      <Item chance="often">un téléphone portable</Item>
+      <Item>un appareil photo de poche</Item>
+      <Item>un magazine Playboy</Item>
+      <Item>une paire de culottes</Item>
+      <Item>un dildo</Item>
+      <Item>un vibromasseur</Item>
+      <Item>une carte postale</Item>
+      <Item>un ticket de citation</Item>
+      <Item>un cigare</Item>
+      <Item>un préservatif usagé</Item>
+      <Item>un préservatif</Item>
+      <Item>une lampe de poche</Item>
+      <Item>un porte-clés de voiture</Item>
+      <Item>une paire de jumelles</Item>
+      <Item chance="often">un paquet de cigarettes</Item>
+      <Item>un smartphone</Item>
+      <Item chance="often">un stylo à bille</Item>
+      <Item>un crayon</Item>
+      <Item>un briquet Zippo</Item>
+      <Item>des allumettes</Item>
+      <Item>un billet d'avion</Item>
+      <Item>des lunettes de soleil</Item>
+      <Item>une sucette</Item>
+      <Item>du ruban adhésif d'emballage</Item>
+    </GreenItems>
+</PatDownItems>

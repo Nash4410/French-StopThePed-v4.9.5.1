@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PedAnswers>
+  <Drinking question="Avez-vous bu de l'alcool ?">
+      <Positive>
+          <Answer>J'ai pris un shot de vodka il y a une heure</Answer>
+          <Answer>J'ai bu un pack de six bières</Answer>
+          <Answer>Oui, j'ai bu quelques bières</Answer>
+          <Answer>Oui, j'ai pris une gorgée de vin</Answer>
+          <Answer>Bien sûr, j'ai besoin de me réchauffer</Answer>
+          <Answer>L'alcool me réchauffe</Answer>
+          <Answer>Les boissons alcoolisées sont mes préférées</Answer>
+          <Answer>J'ai besoin de boire pour rester concentré</Answer>
+          <Answer>Je n'ai pas besoin de répondre à cela..</Answer>
+          <Answer>J'ai le droit de me taire..</Answer>
+      </Positive>
+      <Negative>
+          <Answer>Je ne bois pas d'alcool</Answer>
+          <Answer>L'alcool n'est pas bon pour ma santé..</Answer>
+          <Answer>Je n'ai jamais bu de ma vie. Je le jure..</Answer>
+          <Answer>Je suis aussi vif qu'un aigle.. Pas d'alcool dans mon sang..</Answer>
+          <Answer>Non, je n'ai rien bu</Answer>
+          <Answer>Je suis sobre depuis 6 mois</Answer>
+          <Answer>Est-ce que vous sentez de l'alcool sur moi ?</Answer>
+          <Answer>Non !</Answer>
+      </Negative>
+  </Drinking>
+<Drugs question="Avez-vous consommé des drogues ?">
+      <Positive>
+          <Answer>Je prends des drogues pour ma condition médicale..</Answer>
+          <Answer>Je prends des médicaments sur ordonnance..</Answer>
+          <Answer>Je consomme des drogues pour le plaisir</Answer>
+          <Answer>J'en consomme de temps en temps</Answer>
+          <Answer>Les drogues sont bonnes pour notre bien-être</Answer>
+          <Answer>Je me sens défoncé en ce moment...</Answer>
+          <Answer>Dois-je répondre à cela ?</Answer>
+          <Answer>J'ai le droit de me taire..</Answer>
+      </Positive>
+      <Negative>
+          <Answer>Aucune drogue... Les drogues rendent malade...</Answer>
+          <Answer>Pourquoi est-ce que je consommerais des drogues ? Je ne veux pas mourir...</Answer>
+          <Answer>Je n'ai jamais consommé de drogues de ma vie</Answer>
+          <Answer>Est-ce que j'ai l'air d'un toxicomane ?</Answer>
+          <Answer>Je suis sobre depuis un an</Answer>
+          <Answer>Non !</Answer>
+          <Answer>Pas d'argent... pas de drogues...</Answer>
+      </Negative>
+  </Drugs>
+  <IllegalItem question="Avez-vous quelque chose d'illégal sur vous ?">
+    <Answer>Non monsieur. Je suis inoffensif..</Answer>
+    <Answer>Je suis un bon citoyen</Answer>
+    <Answer>Je ne veux pas aller en prison</Answer>
+    <Answer>Peut-être que j'en ai quelque chose..</Answer>
+    <Answer>Je ne sais pas. Vérifiez par vous-même..</Answer>
+    <Answer>Non !</Answer>
+    <Answer>Rien d'illégal sur moi...</Answer>
+    <Answer>J'ai complètement oublié..</Answer>
+    <Answer>Vous n'avez pas le droit de me toucher</Answer>
+    <Answer>Peut-être oui, peut-être non..</Answer>
+  </IllegalItem>
+  <PedDoing question="Que faites-vous ?">
+    <Answer>Je me promène simplement</Answer>
+    <Answer>J'ai besoin d'air frais</Answer>
+    <Answer>Je me détends</Answer>
+    <Answer>J'attends juste un ami..</Answer>
+    <Answer>Cela ne vous regarde pas !</Answer>
+    <Answer>S'il vous plaît, occupez-vous de vos affaires !</Answer>
+    <Answer>Pourquoi cela vous intéresse-t-il ?</Answer>
+    <Answer>Je n'ai pas besoin de répondre à cela..</Answer>
+    <Answer>Je choisis de ne pas répondre..</Answer>
+    <Answer>J'ai le droit de me taire..</Answer>
+  </PedDoing>
+  <PedFrom question="D'où venez-vous ?">
+    <Answer>De chez moi</Answer>
+    <Answer>De chez mon ami</Answer>
+    <Answer>De mon lieu de travail</Answer>
+    <Answer>De l'épicerie</Answer>
+    <Answer>De l'enfer !</Answer>
+    <Answer>Je viens juste de l'hôpital</Answer>
+    <Answer>J'ai le droit de ne pas répondre..</Answer>
+    <Answer>J'ai le droit de garder le silence..</Answer>
+  </PedFrom>
+  <PedTo question="Où vous dirigez-vous ?">
+    <Answer>Je veux rentrer chez moi</Answer>
+    <Answer>Je suis en route pour rentrer chez moi</Answer>
+    <Answer>Je vais au travail</Answer>
+    <Answer>Je vais simplement à l'épicerie</Answer>
+    <Answer>Je vais voir un ami</Answer>
+    <Answer>Je me rends chez mon ami</Answer>
+    <Answer>N'importe où ça me plaît..</Answer>
+    <Answer>Vous ne voulez pas savoir..</Answer>
+    <Answer>J'ai le droit de ne pas répondre..</Answer>
+</PedTo>
+
+</PedAnswers>

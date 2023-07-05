@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Each "Item" tag may have "chance" attribute
+    # Possible "chance" values are: "rare", "normal", "often"
+    # If "chance" attribute is not set, then the plugin will set it as "normal" by default
+-->
+<VehicleItems>
+    <RedItems>
+      <Item chance="normal">un pistolet</Item>
+      <Item>un grand bang</Item>
+      <Item>une mallette pleine d'héroïne</Item>
+      <Item>une mallette pleine de méthamphétamine</Item>
+      <Item>une mallette pleine de cocaïne</Item>
+      <Item>plusieurs sacs de marijuana</Item>
+      <Item>un sac de champignons hallucinogènes</Item>
+      <Item>plusieurs livres de méthamphétamine</Item>
+      <Item>plusieurs livres d'héroïne</Item>
+      <Item>plusieurs livres de cocaïne</Item>
+      <Item chance="rare">une paire de nunchakus</Item>
+      <Item>un silencieux</Item>
+      <Item chance="rare">un engin explosif improvisé (IED)</Item>
+      <Item chance="rare">quelques grenades</Item>
+      <Item>un fusil AR-15</Item>
+      <Item>un fusil de sniper</Item>
+      <Item>un fusil à pompe</Item>
+    </RedItems>
+    <YellowItems>
+      <Item chance="normal">une pince coupante</Item>
+      <Item>plusieurs téléphones portables</Item>
+      <Item>plusieurs bombes de peinture</Item>
+      <Item>de l'équipement de coupe de verre</Item>
+      <Item>plusieurs cartouches de munitions</Item>
+      <Item>un sac d'engrais</Item>
+      <Item>un sac de sport rempli d'argent</Item>
+      <Item>une mallette pleine de billets de 100 dollars</Item>
+      <Item>un masque de clown</Item>
+      <Item>un costume de clown</Item>
+      <Item>un crâne humain</Item>
+      <Item>une grande tache de sang</Item>
+      <Item>un sac en papier brun rempli d'argent</Item>
+      <Item>une bouteille de Percocet</Item>
+      <Item>une bouteille de morphine</Item>
+      <Item>une arbalète</Item>
+      <Item>une hachette</Item>
+      <Item>un marteau</Item>
+      <Item>un couteau de cuisine</Item>
+      <Item>une tronçonneuse</Item>
+      <Item>une grande hache</Item>
+      <Item>une barre de fer</Item>
+      <Item>un katana</Item>
+      <Item>un samouraï</Item>
+      <Item>des poings américains</Item>
+      <Item>une batte de baseball</Item>
+      <Item>une machette</Item>
+      <Item>un spray au poivre</Item>
+      <Item>un taser</Item>
+      <Item>une matraque de police</Item>
+      <Item>plusieurs pilules dans une bouteille non marquée</Item>
+      <Item>un briquet enveloppé contenant de la poudre brune</Item>
+      <Item>une bouteille contenant un liquide clair</Item>
+      <Item>un flacon contenant un résidu liquide</Item>
+      <Item>un sac de sport rempli de sachets de poudre blanche</Item>
+      <Item>une balance couverte de poudre blanche</Item>
+      <Item>une balance couverte de poudre brune</Item>
+      <Item>un sachet vide avec des résidus de poudre noire</Item>
+      <Item>un flacon vide contenant des résidus de poudre blanche</Item>
+      <Item>quelques feuilles de papier buvard perforé</Item>
+      <Item>deux sachets vides avec des résidus de poudre brune</Item>
+      <Item>un billet d'un dollar couvert de poudre</Item>
+      <Item>un sachet de pilules non marquées</Item>
+      <Item>un sachet de comprimés non marqués</Item>
+      <Item>un sachet de capsules non marquées</Item>
+      <Item>quelques feuilles de papier buvard</Item>
+    </YellowItems>
+    <GreenItems>
+      <Item chance="often">une lampe de poche</Item>
+      <Item>une serviette de plage</Item>
+      <Item>un ballon de soccer</Item>
+      <Item>un jerrican</Item>
+      <Item>un bras prothétique</Item>
+      <Item>une bouteille d'eau de Javel</Item>
+      <Item>des sacs d'épicerie</Item>
+      <Item chance="rare">une boule de bowling</Item>
+      <Item>une raquette de tennis</Item>
+      <Item>une raquette de badminton</Item>
+      <Item>un violon</Item>
+      <Item>un ballon de basketball</Item>
+      <Item>un ballon de football américain</Item>
+      <Item>un ballon de soccer</Item>
+      <Item>une urne de cendres</Item>
+      <Item chance="often">une paire de chaussures</Item>
+      <Item>une paire de sandales</Item>
+      <Item>une pelle</Item>
+      <Item>un ordinateur portable MacBook Pro</Item>
+      <Item>une mallette verrouillée</Item>
+      <Item>un tas de vêtements sales</Item>
+      <Item>un casque de moto</Item>
+      <Item>un sac d'oranges</Item>
+      <Item>un grille-pain</Item>
+      <Item>une bouteille de désinfectant pour les mains</Item>
+      <Item>un jeu de câbles de démarrage</Item>
+      <Item>un costume d'Halloween</Item>
+      <Item>un chapeau de cowboy</Item>
+      <Item>un chapeau fedora</Item>
+      <Item>un sac de pommes</Item>
+      <Item>une bouteille de cola light</Item>
+    </GreenItems>
+</VehicleItems>

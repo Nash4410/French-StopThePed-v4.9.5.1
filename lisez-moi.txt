@@ -1,0 +1,37 @@
+StopThePed Version: v4.9.5.1
+
+Français:
+
+Traduction française pour le plugin StopThePed. En cas de bugs/erreur de traduction vous pouvez me contacter sur discord: nash44
+
+PRÉREQUIS AVANT INSTALLATION:
+
+StopThePed: https://www.bejoijo.com/post/stop-the-ped
+
+INSTALLATION:
+
+Remplacez tout les éléments présents dans le dossier: plugins/LSPDFR/StopThePed après avoir installer le plugin (CustomQuestions.xml, PatDownItems.xml PedAnswers.xml, TrafficStopQuestions.xml, VehicleItems.xml, and Localization.ini)
+
+Crédits:
+
+Traduit par: Nash44
+Script: Bejoljo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+English:
+
+French translation for the StopThePed plugin. In case of bugs / translation error you can contact me on discord: nash44
+
+REQUIREMENTS BEFORE INSTALLATION:
+
+StopThePed: https://www.bejoijo.com/post/stop-the-ped
+
+INSTALLATION:
+
+Replace all the elements present in the folder: plugins/LSPDFR/StopThePed after installing the plugin (CustomQuestions.xml, PatDownItems.xml PedAnswers.xml, TrafficStopQuestions.xml, VehicleItems.xml, and Localization.ini)
+
+Credits:
+
+Translated by: Nash44
+Script: Bejoljo 

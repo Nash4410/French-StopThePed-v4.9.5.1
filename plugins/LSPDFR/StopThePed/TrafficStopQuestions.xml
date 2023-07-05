@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrafficStopQuestions>
+  <TrafficStopQuestion>
+    <CustomQuestion>
+      <Question>Avez-vous consommé de l'alcool ?</Question>
+      <Answers>
+        <Answer>J'ai pris un shot de vodka il y a une heure</Answer>
+        <Answer>J'ai bu un pack de six bières</Answer>
+        <Answer>Oui, j'ai pris quelques bières</Answer>
+        <Answer>Oui, j'ai pris une gorgée de vin</Answer>
+        <Answer>Bien sûr, j'ai besoin de me réchauffer le corps</Answer>
+        <Answer>L'alcool me réchauffe</Answer>
+        <Answer>Les boissons alcoolisées sont mes préférées</Answer>
+        <Answer>J'ai besoin de boire pour rester concentré</Answer>
+        <Answer>Je n'ai pas besoin de répondre à ça..</Answer>
+        <Answer>J'ai le droit de me taire..</Answer>
+        <Answer>Je ne bois pas d'alcool</Answer>
+        <Answer>L'alcool n'est pas bon pour ma santé..</Answer>
+        <Answer>Je n'ai jamais bu de ma vie. Je le jure..</Answer>
+        <Answer>Je suis vif comme un aigle.. Pas d'alcool dans mon sang..</Answer>
+        <Answer>Non, je n'ai rien bu</Answer>
+        <Answer>Je suis sobre depuis 6 mois</Answer>
+        <Answer>Est-ce que tu sens l'alcool sur moi ?</Answer>
+        <Answer>Non !</Answer>
+      </Answers>
+    </CustomQuestion>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Avez-vous consommé des drogues récemment ?</Question>
+      <Answers>
+        <Answer>Je prends des médicaments pour ma condition médicale..</Answer>
+        <Answer>Je prends des médicaments sur ordonnance..</Answer>
+        <Answer>J'utilise certaines drogues pour le plaisir</Answer>
+        <Answer>J'en prends de temps en temps</Answer>
+        <Answer>Les drogues sont bonnes pour notre bien-être</Answer>
+        <Answer>Je suis défoncé en ce moment...</Answer>
+        <Answer>Dois-je répondre à ça ?</Answer>
+        <Answer>J'ai le droit de me taire..</Answer>
+        <Answer>Pas de drogues.. Les drogues rendent malade..</Answer>
+        <Answer>Pourquoi utiliserais-je des drogues ? Je ne veux pas mourir...</Answer>
+        <Answer>Je n'ai jamais utilisé de drogues de ma vie</Answer>
+        <Answer>J'ai l'air d'un toxicomane ?</Answer>
+        <Answer>J'ai été clean pendant un an</Answer>
+        <Answer>Non !</Answer>
+        <Answer>Pas d'argent.. pas de drogues..</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>D'où venez-vous ?</Question>
+      <Answers>
+        <Answer>De la maison</Answer>
+        <Answer>De chez mon ami</Answer>
+        <Answer>De mon travail</Answer>
+        <Answer>De l'épicerie</Answer>
+        <Answer>De l'enfer !</Answer>
+        <Answer>Je viens juste de l'hôpital</Answer>
+        <Answer>J'ai le droit de ne pas répondre..</Answer>
+        <Answer>J'ai le droit de me taire..</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Où allez-vous ?</Question>
+      <Answers>
+        <Answer>Je veux rentrer chez moi</Answer>
+        <Answer>Je suis en route pour rentrer chez moi</Answer>
+        <Answer>Je vais au travail</Answer>
+        <Answer>Juste aller à l'épicerie</Answer>
+        <Answer>Je vais voir un ami</Answer>
+        <Answer>Je vais chez mon ami</Answer>
+        <Answer>N'importe où je veux..</Answer>
+        <Answer>Vous ne voulez pas savoir..</Answer>
+        <Answer>J'ai le droit de ne pas répondre..</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  <TrafficStopQuestionGroup name="Questions code de la route">
+    <TrafficStopQuestion>
+      <Question>Pourquoi avez-vous brûlé un feu rouge ?</Question>
+      <Answers>
+        <Answer>Cela ne prend que quelques secondes... ça devrait aller...</Answer>
+        <Answer>Désolé, je suis pressé... j'ai besoin d'aller aux toilettes</Answer>
+        <Answer>Je pensais qu'il était encore au jaune</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi n'avez-vous pas utilisé votre clignotant ?</Question>
+      <Answers>
+        <Answer>Je n'en ai pas besoin. Les autres conducteurs sont assez intelligents</Answer>
+        <Answer>Je suis trop paresseux pour le faire, monsieur</Answer>
+        <Answer>Je ne l'utilise que lorsque c'est nécessaire</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi n'avez-vous pas arrêté au panneau d'arrêt ?</Question>
+      <Answers>
+        <Answer>Je pense que ce n'est pas vraiment nécessaire</Answer>
+        <Answer>Il n'y avait aucun autre véhicule</Answer>
+        <Answer>Calmez-vous... Personne n'est mort</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi rouliez-vous trop vite ?</Question>
+      <Answers>
+        <Answer>Je suis né pour rouler vite !</Answer>
+        <Answer>Je n'étais pas au courant de la limitation de vitesse</Answer>
+        <Answer>Tout le monde roule vite. Pourquoi pas moi ?</Answer>
+        <Answer>Désolé, je suis en retard pour un rendez-vous</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi envoyiez-vous des messages texte en conduisant ?</Question>
+      <Answers>
+        <Answer>J'ai besoin d'envoyer un message important à ma femme</Answer>
+        <Answer>Ça ne devrait pas être un problème. Je l'ai fait pendant que j'étais arrêté</Answer>
+        <Answer>Regardez... mon smartphone est cool, n'est-ce pas ?</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi étiez-vous au téléphone en conduisant ?</Question>
+      <Answers>
+        <Answer>Désolé, mon patron m'a appelé</Answer>
+        <Answer>Quel est le problème ? Je pense que j'utilisais le kit mains libres</Answer>
+        <Answer>Ma voiture n'a pas de fonction d'assistance aux appels</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi conduisiez-vous de manière dangereuse ?</Question>
+      <Answers>
+        <Answer>Je suis pressé d'aller à l'hôpital</Answer>
+        <Answer>Je conduis toujours comme ça. Rien ne va pas</Answer>
+        <Answer>Désolé, je suis un conducteur débutant</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi faisiez-vous du vélo sans casque ?</Question>
+      <Answers>
+        <Answer>Il fait trop chaud quand je le porte</Answer>
+        <Answer>Désolé monsieur, je n'ai pas d'argent pour l'acheter</Answer>
+        <Answer>Je ne veux pas que ça gâche ma coiffure</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi étiez-vous collé au véhicule devant vous ?</Question>
+      <Answers>
+        <Answer>Je ne veux pas que d'autres conducteurs me coupent</Answer>
+        <Answer>C'est mon style de conduite. Qu'est-ce qu'il y a de mal à cela ?</Answer>
+        <Answer>Ce conducteur stupide est trop lent !</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  </TrafficStopQuestionGroup>
+  <TrafficStopQuestionGroup name="Questions sur les documents">
+    <TrafficStopQuestion>
+      <Question>Saviez-vous que votre permis de conduire est expiré ?</Question>
+      <Answers>
+        <Answer>J'ai dû oublier de le renouveler. Désolé, monsieur</Answer>
+        <Answer>Je le sais. Mais j'aime ce permis car je parais jeune sur la photo</Answer>
+        <Answer>S'il vous plaît, donnez-moi juste un avertissement. Je le renouvellerai immédiatement</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Saviez-vous que votre assurance est expirée ?</Question>
+      <Answers>
+        <Answer>Êtes-vous sûr ? Normalement, elle devrait se renouveler automatiquement</Answer>
+        <Answer>Je n'ai pas d'argent pour la renouveler</Answer>
+        <Answer>S'il vous plaît, donnez-moi juste un avertissement. Je la renouvellerai immédiatement</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Saviez-vous que votre immatriculation est expirée ?</Question>
+      <Answers>
+        <Answer>Je n'ai reçu aucun courrier du DMV concernant le renouvellement</Answer>
+        <Answer>Ma secrétaire a dû oublier de la renouveler</Answer>
+        <Answer>S'il vous plaît, donnez-moi juste un avertissement. Je la renouvellerai immédiatement</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi conduisez-vous sans permis de conduire ?</Question>
+      <Answers>
+        <Answer>Uh oh... Désolé... En fait, je suis un immigrant illégal, monsieur</Answer>
+        <Answer>J'ai essayé d'obtenir le permis mais j'ai toujours échoué aux tests</Answer>
+        <Answer>Mon permis a été révoqué il y a un an</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi conduisez-vous sans avoir une immatriculation ?</Question>
+      <Answers>
+        <Answer>Mmm... Je viens d'acheter ce véhicule à un ami</Answer>
+        <Answer>Je loue ce véhicule. Ils ne m'en ont pas donné une</Answer>
+        <Answer>Je suppose que la société de leasing a oublié de me l'envoyer</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi conduisez-vous sans avoir d'assurance ?</Question>
+      <Answers>
+        <Answer>L'assurance est trop chère</Answer>
+        <Answer>Je n'en ai pas besoin. Je conduis toujours prudemment</Answer>
+        <Answer>Est-ce obligatoire d'avoir une assurance ?</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Pourquoi conduisez-vous alors que votre permis est suspendu ?</Question>
+      <Answers>
+        <Answer>Désolé monsieur, j'ai vraiment besoin de conduire pour aller travailler</Answer>
+        <Answer>Êtes-vous sûr ? Ils disent que mon permis n'est plus suspendu</Answer>
+        <Answer>Je vous assure, je ne savais pas que mon permis était suspendu</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  </TrafficStopQuestionGroup>
+  <TrafficStopQuestionGroup name="Questions equipements vehicule">
+    <TrafficStopQuestion>
+      <Question>Sais-tu que ton phare est cassé ?</Question>
+      <Answers>
+        <Answer>Pardonnez-moi, monsieur. Je vais le faire réparer aujourd'hui même</Answer>
+        <Answer>C'est bon. Je peux toujours voir la route</Answer>
+        <Answer>L'autre fonctionne encore, je suppose</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Sais-tu que tes feux de freinage ne fonctionnent pas ?</Question>
+      <Answers>
+        <Answer>Pardonnez-moi, monsieur. Je vais les faire réparer aujourd'hui même</Answer>
+        <Answer>Oh désolé, je n'en étais pas conscient</Answer>
+        <Answer>Ils fonctionnaient avant. Ce doit être ces mécaniciens stupides</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Sais-tu que ton pare-brise est cassé ?</Question>
+      <Answers>
+        <Answer>Oui, bien sûr. J'ai besoin d'un peu d'air</Answer>
+        <Answer>Je suis sur le point d'aller le réparer</Answer>
+        <Answer>Espérons qu'il ne pleuve pas aujourd'hui</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Sais-tu que les néons/feux de sol sont interdits ?</Question>
+      <Answers>
+        <Answer>Je le sais, mais c'est cool</Answer>
+        <Answer>Désolé, je ne le savais pas</Answer>
+        <Answer>Si ça ne vous plaît pas, je peux les éteindre</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Sais-tu que ta vitre est cassée ?</Question>
+      <Answers>
+        <Answer>Quelqu'un a cassé la vitre de ma voiture la nuit dernière</Answer>
+        <Answer>Elle a été touchée par une balle de golf hier lorsque j'ai passé près du parcours de golf</Answer>
+        <Answer>Je ne sais pas, merci de m'en informer</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Sais-tu que le film teinté de ta fenêtre est trop sombre ?</Question>
+      <Answers>
+        <Answer>C'est bon. Je peux voir la route depuis l'intérieur</Answer>
+        <Answer>Je suis trop timide, monsieur</Answer>
+        <Answer>Je ne veux pas que les gens regardent à l'intérieur de ma voiture</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>Sais-tu que ta charge n'est pas sécurisée ?</Question>
+      <Answers>
+        <Answer>Je pense l'avoir suffisamment sécurisée</Answer>
+        <Answer>Au moins, elle ne tombe pas</Answer>
+        <Answer>Je suis désolé, je n'ai pas d'argent pour louer un camion</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  </TrafficStopQuestionGroup>
+</TrafficStopQuestions>
