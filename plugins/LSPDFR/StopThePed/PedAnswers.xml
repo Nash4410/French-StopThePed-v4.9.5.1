@@ -76,7 +76,7 @@
     <Answer>De l'épicerie</Answer>
     <Answer>De l'enfer !</Answer>
     <Answer>Je viens juste de l'hôpital</Answer>
-    <Answer>J'ai le droit de ne pas répondre..</Answer>
+    <Answer>Je viens de l'Unicorn..</Answer>
     <Answer>J'ai le droit de garder le silence..</Answer>
   </PedFrom>
   <PedTo question="Où vous dirigez-vous ?">
@@ -88,7 +88,7 @@
     <Answer>Je me rends chez mon ami</Answer>
     <Answer>N'importe où ça me plaît..</Answer>
     <Answer>Vous ne voulez pas savoir..</Answer>
-    <Answer>J'ai le droit de ne pas répondre..</Answer>
+    <Answer>J'ai le droit de garder le silence..</Answer>
 </PedTo>
 
 </PedAnswers>
